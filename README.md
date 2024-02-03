@@ -25,6 +25,7 @@ env\Scripts\activate
 3. Install the required dependencies:
 
 ```bash
+env\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -190,3 +191,7 @@ When making requests that require authentication, ensure that the provided acces
 ```
 Header: Authorization: Token YOUR_ACCESS_TOKEN
 ```
+
+
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/m0dmKBkncVETJv2h0S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>via GIPHY</a></p>
